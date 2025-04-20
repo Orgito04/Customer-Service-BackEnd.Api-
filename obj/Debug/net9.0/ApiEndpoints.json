@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CustomerServiceBackend.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "CustomerServiceBackend.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerServiceBackend.Controllers.ContactController",
+    "Method": "SendContact",
+    "RelativePath": "api/Contact/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CustomerServiceBackend.Models.ContactRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerServiceBackend.Controllers.PricingController",
+    "Method": "GetPlans",
+    "RelativePath": "api/Pricing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

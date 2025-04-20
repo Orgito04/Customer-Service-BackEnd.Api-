@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hiNuXoxtcqe5gXGNYxAFj1V6c7KYj+y3tt8CkxD/928=",
+  "Source": "CustomerServiceBackend",
+  "BasePath": "_content/CustomerServiceBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
